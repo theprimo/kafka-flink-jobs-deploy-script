@@ -1,7 +1,7 @@
 # kafka-flink-jobs-deploy-script
 # helper doc to understand what this setup does & how to use it
 
-# what it does
+# What it does
 It eliminates the manual process of local kafka & flink startup and flink jobs deployment.
 
 Step wise:
